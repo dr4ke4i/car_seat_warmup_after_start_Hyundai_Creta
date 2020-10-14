@@ -3,7 +3,7 @@
 
 #include "Arduino.h"
 #include "helpers.h"
-#include <EEPROM.h>
+#include "EEPROM.h"
 
 #define EEPROM_ADDR_HEAT_VALUE        1   // адрес записанной во flash-память силы нагрева (значения: 1='000', 2='I00', 3='II0', 4='III')
 #define EEPROM_ADDR_HEAT_DURATION     2   // адрес записанной во flash-память длительности таймера автовыключения обогрева (значения: 1=HEAT_DURATION_1, 2=HEAT_DURATION_2, ...
