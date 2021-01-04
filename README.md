@@ -7,4 +7,4 @@
 
 Устройство реализует функции путём иммитации нажатия кнопки управления обогревом сидения в салоне автомобиля.
 
-Подробности в https://github.com/dr4ke4i/car_seat_warmup_after_start_Hyundai_Creta/README.pdf
+Подробности в https://github.com/dr4ke4i/car_seat_warmup_after_start_Hyundai_Creta/blob/master/README.pdf
